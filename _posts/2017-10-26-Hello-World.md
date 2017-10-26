@@ -7,5 +7,5 @@ title: A new beginning!
 பகவன் முதற்றே உலகு.
 
 
-![_config.yml]({{ site.baseurl }}/images/suzhi.png)
+![_config.yml]({{ site.baseurl }}/images/suzhi.jpg)
 
